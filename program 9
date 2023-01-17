@@ -1,0 +1,14 @@
+struct Student { 
+var name : String 
+var address : String
+var age : Int 
+var grade : Int 
+}
+
+var student = Student(name:"Mithlesh",age:18, address:"123 Main Street,City,State,"grade:12)
+
+print ("Student Information:")
+print ("Name:\(Student.name)")
+print ("Age:\(Student.age)")
+print ("Address:\(Student.address)")
+print ("Grade:\(Student.grade)")
