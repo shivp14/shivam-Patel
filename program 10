@@ -1,0 +1,5 @@
+et pi = 3.14
+var radius = 5.0
+radius = 10.0
+print (pi)
+print (radius)
